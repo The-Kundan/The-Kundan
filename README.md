@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **kundan17832863@gmail.com**
 
-- ⚡ Fun fact **Introvert**
+- ⚡ Nature **Introvert and Spiritual**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
