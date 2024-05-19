@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-kundan&show_icons=true&locale=en" alt="the-kundan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-kundan&" alt="the-kundan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-kundan" alt="the-kundan" /></p>
