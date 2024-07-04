@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/kundan kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kundan kumar" height="30" width="40" /></a>
 <a href="https://fb.com/kûñ däñ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kûñ däñ" height="30" width="40" /></a>
 <a href="https://instagram.com/the_kundan25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_kundan25" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/the_kundan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="the_kundan" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kundan25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="the_kundan" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/the_kundan25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="the_kundan25" height="30" width="40" /></a>
 </p>
 
